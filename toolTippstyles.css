@@ -1,0 +1,80 @@
+p {
+    color: #FFFFFF;
+    font-family: Myriad Pro;
+    font-size: 50px;
+    font-weight:bold;
+    display: inline;
+}
+
+b {
+    color: #FFFFFF;
+    font-family: Myriad Pro;
+    font-size: 8px;
+    display: inline;
+}
+
+a:link {
+    font-family: Myriad Pro;
+    color: #3300FF;
+    display: inline;
+    font-size: 8px;
+}
+
+a:hover {
+    font-family: Myriad Pro;
+    color: #FF0033;
+    display: inline;
+    font-size: 8px;
+}
+
+a:active {
+    font-family: Myriad Pro;
+    color: #000000;
+    display: inline;
+    font-size: 8px;
+}
+
+normal {
+    color: #FFFFFF;
+    font-family: Myriad Pro;
+    font-size: 8px;
+}
+
+.secheadline {
+    color: #000000;
+    font-family: Myriad Pro;
+    display:inline;
+    font-weight: Bold;
+    text-decoration: normal;
+    font-size: 50px;
+}
+
+.tirheadline {
+    font-family: Myriad Pro;
+    color: #000000;
+    font-size: 8px;
+}
+
+.fouheadline {
+    font-family: FFF Estudio Thin;
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-size: 8px;
+}
+
+.standartText {
+    font-family: FFF Estudio Thin;
+    color: #FFFFFF;
+    text-decoration: underline;
+    font-size: 8px;
+}
+
+.byline {
+    font-family: FFF Estudio Thin;
+    color: #FFFFFF;
+    font-style: italic;
+    font-weight: bold;
+    display: inline;
+}
+
+

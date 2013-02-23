@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<INHALT ACTION='CLIP'>
+    <BILD TARGET='_self' URL='bilder/pic11.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='460'><![CDATA[<span class='secheadline'><p>11</p></span>]]></BILD>
+    <BILD TARGET='_self' URL='bilder/pic12.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='460'><![CDATA[<span class='secheadline'><p>22</p></span>]]></BILD>
+    <BILD TARGET='_self' URL='bilder/pic13.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='345'><![CDATA[<span class='secheadline'><p>33</p></span>]]></BILD>
+    <BILD TARGET='_self' URL='bilder/pic11.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='460'><![CDATA[<span class='secheadline'><p>44</p></span>]]></BILD>
+    <BILD TARGET='_self' URL='bilder/pic12.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='index/nav/worx/Cailler' ACTION='CLIP' TYPE='LINK' ID='460'><![CDATA[<span class='secheadline'><p>55</p></span>]]></BILD>
+    <BILD TARGET='_self' URL='bilder/pic14.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='460'><![CDATA[<span class='secheadline'><p>210</p></span>]]></BILD>
+</INHALT>

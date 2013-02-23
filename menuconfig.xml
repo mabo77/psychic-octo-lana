@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<INHALT ACTION='CLIP'>
+    <BILD TARGET='_self' URL='bilder/l1.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='index/nav/info'><![CDATA[INFO]]></BILD>
+    <BILD TARGET='_self' URL='bilder/l2.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='index/nav/worx'><![CDATA[WORX]]></BILD>
+    <BILD TARGET='_self' URL='bilder/l3.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='index/nav/aboutme'><![CDATA[ABOUT ME]]></BILD>
+    <BILD TARGET='_self' URL='bilder/l4.jpg' DATATYPE='JPG' ROWONE = 'erste Zeile' ROWTWO = 'zweite Zeile' LINK='http://www.parasol-islands.com' ACTION='CLIP' TYPE='LINK' ID='index/nav/contact'><![CDATA[CONTACT]]></BILD>
+</INHALT>

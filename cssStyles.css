@@ -1,0 +1,30 @@
+
+
+.customBold {
+    font-family: FFF Estudio Thin;
+    color: #FF00CC;
+    display: inline;
+    font-size: 8px;
+}
+a:link {
+  font-family: FFF Estudio Thin;
+  color: #FF00CC;
+  display: inline;
+  font-size: 8px;
+
+}
+
+a:hover {
+  font-family: FFF Estudio Thin;
+  color: #5599ff;
+  display: inline;
+  font-size: 8px;
+
+}
+
+a:active {
+  font-family: FFF Estudio Thin;
+  color: #FFFFFF;
+  display: inline;
+  font-size: 8px;
+}
