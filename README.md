@@ -7,4 +7,4 @@ SirFreako@Flashforum.de >> Mojave YugopReel As3 Component / with jump Behaviour
 
 - have fun !!
 
-the Name was choosen from the Github Name Machine
+- the Name was choosen from the Github RandomName Machine :)
